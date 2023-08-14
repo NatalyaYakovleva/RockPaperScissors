@@ -1,0 +1,7 @@
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+E:\VisualStudioCommunity\ConsoleApp\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
